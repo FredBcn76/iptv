@@ -112,14 +112,11 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:0 tvg-id="GialloTV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" tvg-chno="38" group-title="Discovery" :http-user-agent="",Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fashion-tv.jpg" group-title="Entertainment",Fashion Tv
+#EXTINF:-1 tvg-id="Fashion TV.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/fashion-tv.jpg" group-title="Entertainment",Fashion Tv
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/world-fashion-international-hd.jpg" group-title="Altri Canali Nazionali",World Fashion International
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ClassCNBC.it@SD" tvg-logo="https://i.imgur.com/3Ei5VHa.png" group-title="News",CNBC
-https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="http://odmsto.com/uploads/tv_image/sm/class-cnbc.png" group-title="News e Canali Istituzionali",Class CNBC
+https://jmp2.uk/stvp-ITBD3600002PA.m3u8
 
 #EXTINF:-1 tvg-id="RaiSport.it@HD" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Sport",Rai Sport HD
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
@@ -192,12 +189,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3
 #EXTINF:-1 tvg-id="PlutoTVNatura.us@Italy" tvg-logo="https://i.imgur.com/bGZkH6b.png" group-title="Documentary",Pluto TV Natura
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-name="Naturescape – Pluto TV" tvg-logo="https://i.imgur.com/CGB6qiV.png" group-title="Documentary",Pluto TV Naturescape
+#EXTINF:-1 tvg-name="Naturescape" tvg-logo="https://i.imgur.com/CGB6qiV.png" group-title="Documentary",Pluto TV Naturescape
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 channel-id="IT3200002L5" tvg-id="IT3200002L5" tvg-chno="4487" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20250211T013953SQUARE.png" group-title="Documentary",BBC Earth
+#EXTINF:-1 channel-id="IT3200002L5" tvg-id="BBC Hearth" tvg-chno="4487" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20250211T013953SQUARE.png" group-title="Documentary",BBC Earth
 
-#EXTINF:-1 channel-id="ITBA1500001R6" tvg-id="ITBA1500001R6" tvg-chno="4764" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1500001R6_20241022T051326SQUARE.png" group-title="Music",Deluxe Lounge HD
+#EXTINF:-1 channel-id="ITBA1500001R6" tvg-id="DeluxeLounge@HD" tvg-chno="4764" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1500001R6_20241022T051326SQUARE.png" group-title="Music",Deluxe Lounge HD
 https://jmp2.uk/stvp-ITBA1500001R6
 
 #EXTINF:-1 tvg-name="Trace Latina" tvg-logo="https://i.imgur.com/GHbz8wd.png" tvg-id="TraceLatina.fr" group-title="Music",Trace Latina
@@ -356,6 +353,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754a
 #EXTINF:0 tvg-id="Frisbee.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" tvg-chno="44" group-title="Kids" :http-user-agent="",Frisbee
 
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+
 
 
 
