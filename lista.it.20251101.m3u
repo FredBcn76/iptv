@@ -375,7 +375,7 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
 #EXTINF:-1 tvg-id="E4.uk" tvg-logo="https://i.imgur.com/22MfjF4.png" group-title="UK",E4
-https://x.canlitvapp.com/u-e4/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/E4/browser-HLS8/film4.m3u8
 
 #EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="UK",Film4 HD
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
@@ -400,6 +400,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Europe
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+
 
 
 
