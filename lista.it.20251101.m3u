@@ -438,10 +438,10 @@ https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1 tvg-id="tf1.fr@SD" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", group-title="France",TF1
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 
-#EXTINF:-1 tvg-id="france2.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/France_2_2018.svg", group-title="France",FRANCE 2
+#EXTINF:-1 tvg-id="france2.fr@SD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/12/France-2-Logo-1024x644.png", group-title="France",FRANCE 2
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
 
-#EXTINF:-1 tvg-id="France3.fr@HD", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/France_3_2018.svg", group-title="France",France 3
+#EXTINF:-1 tvg-id="France3.fr@HD", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1404px-France_3_2018.svg.png", group-title="France",France 3
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
 
 #EXTINF:-1 tvg-id="France4.fr@HD", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj2MiOWDir6GJ0SxW9V1I6sCk3Ehkn5KkDLw&s", group-title="France", France 4
@@ -503,5 +503,6 @@ https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png" group-title="France",T18
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailymotion/t18.m3u8
+
 
 
