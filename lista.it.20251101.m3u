@@ -23,7 +23,7 @@ https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
 #EXTM3U
-#EXTINF:0 tvg-id="CNN.us@HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="News",CNN International
+#EXTINF:0 tvg-id="CNN.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News",CNN International
 https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
 
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8
@@ -46,7 +46,7 @@ https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-#EXTINF:0 tvg-name="Euronews" tvg-id="Euronews Italiano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-group="News" catchup="default" catchup-days="7",Euronews Italia
+#EXTINF:0 tvg-id="Euronews Italiano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-group="News" catchup="default" catchup-days="7",Euronews Italia
 https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/e/25674/euronews-it.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Europe
@@ -228,9 +228,6 @@ https://jmp2.uk/stvp-ITBD1900010JL
 #EXTINF:-1 channel-id="ITBC210000200" tvg-id="ITBC210000200" tvg-chno="4686" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png" group-title="Music",Vevo '90s & '00s
 https://jmp2.uk/stvp-ITBC210000200
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900010JL_20241022T043926SQUARE.png" group-title="Music",Vevo Pop Spain (1080p)
-https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTL102.5News.it" tvg-chno="233" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Music",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
@@ -328,9 +325,6 @@ https://jmp2.uk/plu-6690f892d51259000880d1c4.m3u8
 #EXTINF:-1 channel-id="65e5d9d2ec9fda0008c35f91" tvg-id="65e5d9d2ec9fda0008c35f91" tvg-chno="940" tvg-name="VH1+ Dance" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" group-title="Music", VH1+ Dance
 https://jmp2.uk/plu-65e5d9d2ec9fda0008c35f91.m3u8
 
-#EXTINF:-1 channel-id="62e8cc10ca869f00078efca8" tvg-id="62e8cc10ca869f00078efca8" tvg-chno="925" tvg-name="VH1+ Music Legends" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="Music", VH1+ Music Legends
-https://jmp2.uk/plu-62e8cc10ca869f00078efca8.m3u8
-
 #EXTINF:-1 tvg-id="EtnaEspressoChannel.it@SD" tvg-logo="https://i.imgur.com/lSI5QgV.png" group-title="Regionale",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 
@@ -414,7 +408,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Europe
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:-1 vg-logo="https://i.ibb.co/Zfcrrr1/lci.png" tvg-id="LCI.fr@HD", group-title="News",LCI HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVf26sSS2B3xPUifPIsiGqsqklGjDyJihiJg&s" tvg-id="LCI.fr@HD", group-title="News",LCI HD
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
 
 #EXTINF:-1 tvg-id="i24news.com/fr@SD" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", group-title="News",i24 NEWS FR
@@ -444,16 +438,16 @@ https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1 tvg-id="tf1.fr@SD" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", group-title="France",TF1
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 
-#EXTINF:-1 tvg-id="france2.fr@SD" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", group-title="France",FRANCE 2
+#EXTINF:-1 tvg-id="france2.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/France_2_2018.svg", group-title="France",FRANCE 2
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
 
-#EXTINF:-1 tvg-id="France3.fr@HD", tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", group-title="France",France 3
+#EXTINF:-1 tvg-id="France3.fr@HD", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/France_3_2018.svg", group-title="France",France 3
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
 
-#EXTINF:-1 tvg-id="France4.fr@HD", tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png", group-title="France", France 4
+#EXTINF:-1 tvg-id="France4.fr@HD", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj2MiOWDir6GJ0SxW9V1I6sCk3Ehkn5KkDLw&s", group-title="France", France 4
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 
-#EXTINF:-1 tvg-id="France5.fr@HD" tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png", group-title="France", France 5 HD
+#EXTINF:-1 tvg-id="France5.fr@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfcGUNvJJviAFgpsPZC9gBzIibaFsw5lZuCA&s", group-title="France", France 5 HD
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 
 #EXTINF:-1 tvg-id="m6.fr@HD" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png", group-title="France",M6
@@ -486,7 +480,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mens
 #EXTINF:-1 tvg-id="MTV.fr@SD" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="France",MTV
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 
-#EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tgv-logo="https://es.wikipedia.org/wiki/Archivo:Planete_plus_hd.png" group-title="France",Planete+
+#EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tgv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Planete%2B_logo_SVG.svg/1200px-Planete%2B_logo_SVG.svg.png" group-title="France",Planete+
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 #EXTINF:-1 tvg-id="RMCDecouverte.fr@SD"tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="France",RMC Decouverte
@@ -509,4 +503,5 @@ https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png" group-title="France",T18
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailymotion/t18.m3u8
+
 
