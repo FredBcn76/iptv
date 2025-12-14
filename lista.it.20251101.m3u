@@ -33,7 +33,7 @@ https://jmp2.uk/stvp-IT9000060Q
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-id="SkyTG24.it" group-title="News",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24 HD
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
@@ -400,6 +400,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Europe
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+
 
 
 
