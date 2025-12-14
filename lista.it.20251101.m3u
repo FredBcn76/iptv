@@ -61,9 +61,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
-#EXTINF:-1 vg-logo="https://i.ibb.co/Zfcrrr1/lci.png" tvg-id="LCI.fr@HD", group-title="News",LCI HD
-https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
-
 #EXTINF:0 tvg-id="RealTime.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" tvg-chno="31" group-title="Discovery" :http-user-agent="",Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 
@@ -417,6 +414,12 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Europe
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
+#EXTINF:-1 vg-logo="https://i.ibb.co/Zfcrrr1/lci.png" tvg-id="LCI.fr@HD", group-title="News",LCI HD
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
+
+#EXTINF:-1 tvg-id="i24news.com/fr@SD" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", group-title="News",i24 NEWS FR
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+
 #EXTINF:-1 tvg-id="france24.com/fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png", group-title="News",FRANCE 24 FR
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
@@ -438,28 +441,25 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 #EXTINF:-1 tvg-id="euronews france@SD" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png", group-title="News",EURONEWS FR
 https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
 
-#EXTINF:-1 tvg-id="i24news.com/fr@SD" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", group-title="France",i24 NEWS FR
-https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
-
 #EXTINF:-1 tvg-id="tf1.fr@SD" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", group-title="France",TF1
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 
 #EXTINF:-1 tvg-id="france2.fr@SD" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", group-title="France",FRANCE 2
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
 
-#EXTINF:-1 tvg-id="France3.fr@HD", tvg-logo=tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="France",France 3
+#EXTINF:-1 tvg-id="France3.fr@HD", tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", group-title="France",France 3
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
 
-#EXTINF:-1 tvg-id="France4.fr@HD", tvg-logo=tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" group-title="France", France 4
+#EXTINF:-1 tvg-id="France4.fr@HD", tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png", group-title="France", France 4
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 
-#EXTINF:-1 tvg-id="France5.fr@HD" tvg-logo=tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="France", France 5 HD
+#EXTINF:-1 tvg-id="France5.fr@HD" tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png", group-title="France", France 5 HD
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 
 #EXTINF:-1 tvg-id="m6.fr@HD" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png", group-title="France",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 
-#EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://i.ibb.co/nzh88j8/6ter.png" group-title="France",6ter
+#EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://i.ibb.co/nzh88j8/6ter.png", group-title="France",6ter
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
 
 #EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.ibb.co/LNRd253/w9.png" group-title="France",W9
@@ -474,7 +474,7 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="20MinutesTV.fr@SD" tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png" group-title="France",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
-#EXTINF:-1 tvg-id="Animaux.fr@SD" tvg-logo="https://d30itml3t0pwpf.cloudfront.net/api/v3/medias/14636975/image/opt/original/1585572106-2d31a4a6" group-title="France",Animaux
+#EXTINF:-1 tvg-id="Animaux.fr@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_meZ-LR_gUtwNEVqYq3BBBlFuH-iBT0Dk0uaNH886h6SQc=s900-c-k-c0x00ffffff-no-rj" group-title="France",Animaux
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
 
 #EXTINF:-1 tvg-id="arte.fr@HD" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="France",arte HD
@@ -486,7 +486,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mens
 #EXTINF:-1 tvg-id="MTV.fr@SD" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="France",MTV
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 
-#EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tgv-logo=https://es.wikipedia.org/wiki/Archivo:Planete_plus_hd.png" group-title="France",Planete+
+#EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tgv-logo="https://es.wikipedia.org/wiki/Archivo:Planete_plus_hd.png" group-title="France",Planete+
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 #EXTINF:-1 tvg-id="RMCDecouverte.fr@SD"tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="France",RMC Decouverte
@@ -509,3 +509,4 @@ https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png" group-title="France",T18
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailymotion/t18.m3u8
+
