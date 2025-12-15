@@ -22,10 +22,6 @@ https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 tvg-id="LA7.it@HD" tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7.png" group-title="News",LA7 HD
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
-#EXTM3U
-#EXTINF:0 tvg-id="CNN.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News",CNN International
-https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
-
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
@@ -46,7 +42,7 @@ https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-#EXTINF:0 tvg-id="Euronews Italiano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-group="News" catchup="default" catchup-days="7",Euronews Italia
+#EXTINF:0 tvg-id="Euronews Italiano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-group="News" ,Euronews Italia
 https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/e/25674/euronews-it.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Europe
@@ -54,6 +50,10 @@ https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="News",Euronews English HD
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="CNN.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News",CNN International
+https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
 
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="News",CBS News 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
@@ -364,10 +364,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754a
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="UK",BBC One HD
-https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
 
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="UK",BBC Two HD
-https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_mse_v0_hevc.mpd
 
 #EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="UK",BBC Three HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
@@ -384,9 +384,6 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 #EXTINF:-1 tvg-id="Channel5.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="UK",Channel 5 HD
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
-#EXTINF:-1 tvg-id="E4.uk" tvg-logo="https://i.imgur.com/22MfjF4.png" group-title="UK",E4
-https://viamotionhsi.netplus.ch/live/eds/E4/browser-HLS8/film4.m3u8
-
 #EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="UK",Film4 HD
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
@@ -402,55 +399,22 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 tvg-id="ITV4.uk@SD" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="UK",ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
-#EXTINF:-1 tvg-id="4Music.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png" group-title="UK",4Music
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
-
-#EXTINF:-1 tvg-id="BoxHits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png" group-title="UK",Box Hits (576p)
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits
-
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Europe
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVf26sSS2B3xPUifPIsiGqsqklGjDyJihiJg&s" tvg-id="LCI.fr@HD", group-title="News",LCI HD
-https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
-
-#EXTINF:-1 tvg-id="i24news.com/fr@SD" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", group-title="News",i24 NEWS FR
-https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="france24.com/fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png", group-title="News",FRANCE 24 FR
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-id="bfmtv.com@SD" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="News",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="bfm2.com@SD" tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png", group-title="News",BFM 2
-https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
-
-#EXTINF:-1 tvg-id="bfmgrandreportages.com@SD" tvg-logo="https://i.ibb.co/ChVvjpF/bfmgr.jpg", group-title="News",BFM GRAND REPORTAGES
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="bfmbusiness.com@SD" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png", group-title="News",BFM BUSINESS
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="cnews.fr@SD" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png", group-title="News",CNEWS
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-
-#EXTINF:-1 tvg-id="euronews france@SD" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png", group-title="News",EURONEWS FR
-https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
 
 #EXTINF:-1 tvg-id="tf1.fr@SD" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", group-title="France",TF1
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 
-#EXTINF:-1 tvg-id="france2.fr@SD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/12/France-2-Logo-1024x644.png", group-title="France",FRANCE 2
+#EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_france_2-1920x1665.png", group-title="France",FRANCE 2
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
 
-#EXTINF:-1 tvg-id="France3.fr@HD", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1404px-France_3_2018.svg.png", group-title="France",France 3
+#EXTINF:-1 tvg-id="France3.fr@HD", tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_france_3-1920x1640.png", group-title="France",France 3
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
 
-#EXTINF:-1 tvg-id="France4.fr@HD", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj2MiOWDir6GJ0SxW9V1I6sCk3Ehkn5KkDLw&s", group-title="France", France 4
+#EXTINF:-1 tvg-id="France4.fr@HD", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/France_4_2018_%28icon%29.svg/revision/latest?cb=20211113180044", group-title="France", France 4
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 
-#EXTINF:-1 tvg-id="France5.fr@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfcGUNvJJviAFgpsPZC9gBzIibaFsw5lZuCA&s", group-title="France", France 5 HD
+#EXTINF:-1 tvg-id="France5.fr@HD" tvg-logo="https://logowik.com/content/uploads/images/france-5-20182646.logowik.com.webp", group-title="France", France 5 HD
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 
 #EXTINF:-1 tvg-id="m6.fr@HD" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png", group-title="France",M6
@@ -480,7 +444,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mens
 #EXTINF:-1 tvg-id="MTV.fr@SD" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="France",MTV
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 
-#EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tgv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Planete%2B_logo_SVG.svg/1200px-Planete%2B_logo_SVG.svg.png" group-title="France",Planete+
+#EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tgv-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/07/Planete-_logo.png?fit=1200%2C784&ssl=1" group-title="France",Planete+
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 #EXTINF:-1 tvg-id="RMCDecouverte.fr@SD"tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="France",RMC Decouverte
@@ -504,6 +468,32 @@ https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png" group-title="France",T18
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailymotion/t18.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVf26sSS2B3xPUifPIsiGqsqklGjDyJihiJg&s" tvg-id="LCI.fr@HD", group-title="News",LCI HD
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
+
+#EXTINF:-1 tvg-id="i24news.com/fr@SD" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", group-title="News",i24 NEWS FR
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="france24.com/fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png", group-title="News",FRANCE 24 FR
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="bfmtv.com@SD" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="News",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="bfm2.com@SD" tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png", group-title="News",BFM 2
+https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
+
+#EXTINF:-1 tvg-id="bfmgrandreportages.com@SD" tvg-logo="https://i.ibb.co/ChVvjpF/bfmgr.jpg", group-title="News",BFM GRAND REPORTAGES
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="bfmbusiness.com@SD" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png", group-title="News",BFM BUSINESS
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="cnews.fr@SD" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png", group-title="News",CNEWS
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+
+#EXTINF:-1 tvg-id="euronews france@SD" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png", group-title="News",EURONEWS FR
+https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
 
 
 
