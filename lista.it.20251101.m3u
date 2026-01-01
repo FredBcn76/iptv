@@ -439,11 +439,11 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="Spain" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-id="TVG2.es@SD" tvg-logo="https://i.imgur.com/yFy6gxg.png" group-title="General",TVG2
-https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Antena3.es@National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="Spain",Antena 3
 http://176.65.146.237:8401/play/a0ae/index.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro.es@SD" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="Spain",Cuatro
+http://176.65.146.237:8401/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="Spain",Telecinco
 http://176.65.146.237:8401/play/a09r/index.m3u8
@@ -451,8 +451,11 @@ http://176.65.146.237:8401/play/a09r/index.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es@SD" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Spain",La Sexta
 http://176.65.146.237:8401/play/a0af/index.m3u8
 
-#EXTINF:-1 tvg-id="Cuatro.es@SD" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="Spain",Cuatro
-http://176.65.146.237:8401/play/a09s/index.m3u8
+#EXTINF:-1 tvg-id="Veo7.es@SD" tvg-logo="https://i.imgur.com/kklTIMm.png" group-title="Spain",Veo7
+http://176.65.146.237:8401/play/a09k/index.m3u8
+
+#EXTINF:-1 tvg-id="TVG2.es@SD" tvg-logo="https://i.imgur.com/yFy6gxg.png" group-title="Spain",TVG2
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nova.es@SD" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Spain",Nova
 http://176.65.146.237:8401/play/a0ah/index.m3u8
@@ -462,10 +465,6 @@ http://176.65.146.237:8401/play/a0ag/index.m3u8
 
 #EXTINF:-1 tvg-id="Divinity.es@SD" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="Spain",Divinity
 http://176.65.146.237:8401/play/a09q/index.m3u8
-
-#EXTINF:-1 tvg-id="Veo7.es@SD" tvg-logo="https://i.imgur.com/kklTIMm.png" group-title="Spain",Veo7
-http://176.65.146.237:8401/play/a09k/index.m3u8
-
 #EXTINF:-1 tvg-id="BeMad.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png" group-title="Spain",Be Mad
 http://176.65.146.237:8401/play/a0aj/index.m3u8
 
@@ -589,6 +588,7 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfib
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" group-title="News" tvg-name="BFM TV Francia",BFM TV Francia FR
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
 
 
 
