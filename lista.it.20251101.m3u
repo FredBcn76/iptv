@@ -271,7 +271,6 @@ https://jmp2.uk/plu-65e5d9d2ec9fda0008c35f91.m3u8
 #EXTINF:-1 tvg-id="EtnaEspressoChannel.it@SD" tvg-logo="https://i.imgur.com/lSI5QgV.png" group-title="Regionale",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="UK",BBC One HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
 
@@ -283,12 +282,6 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="UK",BBC Four HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
-
-#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="UK",BBC News Europe
-https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="Int. Europa" tvg-name="News",GB News UK
-https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel4.uk@UKHD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="UK",Channel 4 UK HD
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
@@ -314,7 +307,10 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Europe
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Sky News Reino Unido",Sky News UK
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="News" tvg-name="News",GB News UK
+https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="News" tvg-name="Sky News Reino Unido",Sky News UK
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="News",Euronews English HD
@@ -580,6 +576,7 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfib
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" group-title="News" tvg-name="BFM TV Francia",BFM TV Francia FR
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
 
 
 
