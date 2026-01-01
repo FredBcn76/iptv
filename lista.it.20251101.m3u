@@ -1,7 +1,5 @@
 #EXTM3U
 
-url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
-
 #EXTINF:-1 tvg-id="Rai1.it@HD" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Rai",Rai 1 HD
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
@@ -546,12 +544,6 @@ https://ztnr.rtve.es/ztnr/6982891.m3u8
 #EXTINF:-1 tvg-id="RNE_Radio3.TV" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Spain" tvg-name="Radio 3",Radio 3
 https://ztnr.rtve.es/ztnr/6982918.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Spain" tvg-name="Onda Cero",Onda Cero
-https://atres-live.ondacero.es/h264/live/obs/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Spain" tvg-name="COPE",COPE
-https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="News" tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 
@@ -588,6 +580,7 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfib
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" group-title="News" tvg-name="BFM TV Francia",BFM TV Francia FR
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
 
 
 
