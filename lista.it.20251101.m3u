@@ -436,7 +436,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="Antena3.es@National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="Spain",Antena 3
 http://176.65.146.237:8401/play/a0ae/index.m3u8
 
-#EXTINF:-1 tvg-id="Cuatro.es@SD" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="Spain",Cuatro
+#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="Spain",Cuatro
 http://176.65.146.237:8401/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="Spain",Telecinco
@@ -576,6 +576,7 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfib
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" group-title="News" tvg-name="BFM TV Francia",BFM TV Francia FR
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
 
 
 
