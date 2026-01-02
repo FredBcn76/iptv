@@ -442,7 +442,7 @@ http://176.65.146.237:8401/play/a09s/index.m3u8
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="Spain",Telecinco
 http://176.65.146.237:8401/play/a09r/index.m3u8
 
-#EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Spain",La Sexta
+#EXTINF:-1 tvg-id="LaSexta.es@SD" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Spain",La Sexta
 http://176.65.146.237:8401/play/a0af/index.m3u8
 
 #EXTINF:-1 tvg-id="Veo7.TV" tvg-logo="https://i.imgur.com/kklTIMm.png" group-title="Spain",Veo7
@@ -560,6 +560,7 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="News" tvg-name="betevé",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
 
 
 
