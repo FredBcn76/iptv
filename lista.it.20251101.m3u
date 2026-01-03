@@ -304,7 +304,7 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 tvg-id="ITV4.uk@SD" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="UK",ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Europe
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BBC_News_2022_%28Alt_2%29.svg/langfr-2560px-BBC_News_2022_%28Alt_2%29.svg.png" group-title="News",BBC News Europe
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="News" tvg-name="News",GB News UK
@@ -337,7 +337,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="tf1.fr@SD" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", group-title="France",TF1
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 
-#EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_france_2-1920x1665.png", group-title="France",FRANCE 2
+#EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_france_2-1920x1665.png", group-title="France",France 2
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
 
 #EXTINF:-1 tvg-id="France3.fr@HD", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1404px-France_3_2018.svg.png", group-title="France",France 3
@@ -346,7 +346,7 @@ https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
 #EXTINF:-1 tvg-id="France4.fr@HD", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/2560px-France_4_2018.svg.png", group-title="France", France 4
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 
-#EXTINF:-1 tvg-id="France5.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/2560px-France_5_2018.svg.png", group-title="France", France 5 HD
+#EXTINF:-1 tvg-id="France5.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/2560px-France_5_2018.svg.png", group-title="France", France 5
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 
 #EXTINF:-1 tvg-id="m6.fr@HD" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png", group-title="France",M6
@@ -477,7 +477,7 @@ http://176.65.146.237:8401/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="News" tvg-name="24h",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="News" tvg-name="Euronews",Euronews
+#EXTINF:-1 tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="News" tvg-name="Euronews",Euronews España
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 
 #EXTINF:-1 tvg-id="ElPais.TV" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="News" tvg-name="El País",El País
@@ -504,7 +504,7 @@ https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/Esport3.m3u8
 #EXTINF:-1 tvg-id="+tdp.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Sport" tvg-name="+tdp",+tdp
 https://ztnr.rtve.es/ztnr/6712432.m3u8
 
-#EXTINF:-1 tvg-id="¡Hola!.TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="Spain" tvg-name="¡HOLA! Play",¡HOLA! Play
+#EXTINF:-1 tvg-id="¡Hola!.TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="Spain" tvg-name="¡HOLA! Play",¡HOLA!
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
 #EXTINF:-1 tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Spain" tvg-name="Conciertos Radio 3 (RTVE)",Conciertos Radio 3
@@ -518,9 +518,6 @@ https://ztnr.rtve.es/ztnr/16656232.m3u8
 
 #EXTINF:-1 tvg-id="RTVE_Moderna.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Spain" tvg-name="La moderna (RTVE)",La moderna
 https://ztnr.rtve.es/ztnr/16464377.m3u8
-
-#EXTINF:-1 tvg-id="RNE.TV" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Spain" tvg-name="Spain",Spain
-https://ztnr.rtve.es/ztnr/6982891.m3u8
 
 #EXTINF:-1 tvg-id="RNE_Radio3.TV" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Spain" tvg-name="Radio 3",Radio 3
 https://ztnr.rtve.es/ztnr/6982918.m3u8
@@ -560,6 +557,7 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="News" tvg-name="betevé",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
 
 
 
