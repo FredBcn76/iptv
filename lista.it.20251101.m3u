@@ -376,7 +376,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mens
 #EXTINF:-1 tvg-id="MTV.fr@SD" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="France",MTV
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 
-#EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tgv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Planete%2B_logo_SVG.svg/2560px-Planete%2B_logo_SVG.svg.png" group-title="France",Planete+
+#EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tgv-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="France",Planete+
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 #EXTINF:-1 tvg-id="RMCDecouverte.fr@SD"tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="France",RMC Decouverte
@@ -557,6 +557,7 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="News" tvg-name="betevé",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
 
 
 
