@@ -250,24 +250,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:-1 tvg-name="Paradise Tv" tvg-logo="https://i.imgur.com/okIBfIb.jpg" group-title="Music",Paradise Tv
 https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="VH1+ Back to 90's – Pluto TV" tvg-logo="https://i.imgur.com/vGgh3cs.png" group-title="Music",VH1+ Back to 90's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-name="VH1+ Music Legends – Pluto TV" tvg-logo="https://i.imgur.com/kJ1MDVi.png" group-title="Music",VH1+ Music Legends
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-name="VH1+ Rock! – Pluto TV" tvg-logo="https://i.imgur.com/P1OCuFl.png" group-title="Music",VH1+ Rock!
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-name="VH1+ Canzoni Italiane – Pluto TV" tvg-logo="https://i.imgur.com/fpQBKP2.png" group-title="Music",VH1+ Canzoni Italiane
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63724270c7c2360007b170e8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 channel-id="6690f892d51259000880d1c4" tvg-id="6690f892d51259000880d1c4" tvg-chno="945" tvg-name="VH1+ Classici" tvg-logo="https://images.pluto.tv/channels/6690f892d51259000880d1c4/colorLogoPNG.png" group-title="Music", VH1+ Classici
-https://jmp2.uk/plu-6690f892d51259000880d1c4.m3u8
-
-#EXTINF:-1 channel-id="65e5d9d2ec9fda0008c35f91" tvg-id="65e5d9d2ec9fda0008c35f91" tvg-chno="940" tvg-name="VH1+ Dance" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" group-title="Music", VH1+ Dance
-https://jmp2.uk/plu-65e5d9d2ec9fda0008c35f91.m3u8
-
 #EXTINF:-1 tvg-id="EtnaEspressoChannel.it@SD" tvg-logo="https://i.imgur.com/lSI5QgV.png" group-title="Regionale",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 
@@ -560,6 +542,7 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="News" tvg-name="betevé",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
 
 
 
