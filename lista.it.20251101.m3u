@@ -188,9 +188,11 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="Pure Ibiza" tvg-logo="https://www.pureibizaradio.com/wp-content/uploads/2020/03/Recurso-2@4x-600x600.png" group-title="Music",Pure Ibiza Radio
 http://149.11.174.138:8518/listen.pls?sid=1
 
-#EXTM3U
 #EXTINF:-1 tvg-name="Ibiza Global TV" group-title="Music",Ibiza Global TV
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+
+#EXTINF:-1 tvg-name="Ibiza Global TV" group-title="Music",Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-ticino-channel.jpg" group-title="Music",Radio Ticino Channel
 https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
@@ -521,6 +523,7 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="News" tvg-name="betevé",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
 
 
 
