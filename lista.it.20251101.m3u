@@ -333,7 +333,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mens
 #EXTINF:-1 tvg-id="MTV.fr@SD" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="France",MTV
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 
-#EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tgv-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="France",Planete+
+#EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tgv-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_270.PNG" group-title="France",Planete+
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 #EXTINF:-1 tvg-id="RMCDecouverte.fr@SD"tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="France",RMC Decouverte
@@ -351,11 +351,11 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
 #EXTINF:-1 tvg-id="TMC.fr@HD" tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="France",TMC HD
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 
-#EXTINF:-1 tvg-id="NOVO19.fr@HD" tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png" group-title="France",NOVO19
-https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png" group-title="France",T18
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailymotion/t18.m3u8
+
+#EXTINF:-1 tvg-id="NOVO19.fr@HD" tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png" group-title="France",NOVO19
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVf26sSS2B3xPUifPIsiGqsqklGjDyJihiJg&s" tvg-id="LCI.fr@HD", group-title="News",LCI HD
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
@@ -384,7 +384,7 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 #EXTINF:-1 tvg-id="euronews france@SD" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png", group-title="News",Euronews FR
 https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Spain" tvg-name="La 1",La 1
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="Spain" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="Spain" tvg-name="La 2",La 2
@@ -416,6 +416,7 @@ http://176.65.146.237:8401/play/a0ag/index.m3u8
 
 #EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="Spain",Divinity
 http://176.65.146.237:8401/play/a09q/index.m3u8
+
 #EXTINF:-1 tvg-id="BeMad.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png" group-title="Spain",Be Mad
 http://176.65.146.237:8401/play/a0aj/index.m3u8
 
@@ -493,20 +494,6 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfib
 
 #EXTINF:-1 tvg-id="RNE_Radio3.TV" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Spain" tvg-name="Radio 3",Radio 3
 https://ztnr.rtve.es/ztnr/6982918.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="News" tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias
-https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&0height=200" group-title="Spain" tvg-name="7TV Málaga",7TV Málaga
-https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="Spain" tvg-name="7TV Sevilla",7TV Sevilla
-https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200" group-title="Spain" tvg-name="M95 Marbella",M95 Marbella
-https://limited2.todostreaming.es/live/m95-livestream.m3u8
-
-
 
 
 
