@@ -82,7 +82,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="LA7 Cinema.it" tvg-logo="https://fr.wikipedia.org/wiki/LA7" group-title="Cinema",La7 Cinema
+#EXTINF:-1 tvg-id="LA7 Cinema.it" tvg-logo="https://www.la7.it/sites/default/files/tab/c_la7cinema_prog.jpg" group-title="Cinema",La7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
@@ -101,9 +101,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 
 #EXTINF:0 tvg-id="FoodNetwork.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" tvg-chno="33" group-title="Discovery" :http-user-agent="",Food Network
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/gambero-rosso.png" group-title="Entertainment",Gambero Rosso
-https://streamcdnf31-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-chno="39" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png" group-title="Mediaset",Top Crime
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -138,14 +135,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it@HD" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-storia-uwdoqlac5rgy.png" group-title="Documentary",Rai Storia HD
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 
-#EXTINF:-1 tvg-id="7STORIA.it@HD" tvg-logo="https://i.imgur.com/rF3tpbR.jpeg" group-title="Documentary",7 STORIA
-https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Storia – Pluto TV" tvg-logo="https://i.imgur.com/w5BYvsz.png" group-title="Documentary",Storia – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="PlutoTVNatura.us@Italy" tvg-logo="https://i.imgur.com/bGZkH6b.png" group-title="Documentary",Pluto TV Natura
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 tvg-name="Naturescape" tvg-logo="https://i.imgur.com/CGB6qiV.png" group-title="Documentary",Pluto TV Naturescape
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -184,12 +175,6 @@ https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RadioZeta.it" tvg-chno="266" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiozetatv.png" group-title="Music",RADIO ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
-#EXTINF:-1 tvg-id="7RadioVisione.it@HD" tvg-logo="https://radio7note.com/img/favicon/android-icon-192x192.png" group-title="Music",7 RadioVisione
-https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VisualRadio.it@SD" tvg-logo="https://i.imgur.com/ah14ah0.png" group-title="Music",Visual Radio
-http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
-
 #EXTINF:-1 tvg-id="VirginRadio.it" tvg-chno="257" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="Music",VIRGIN RADIO
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
@@ -200,20 +185,18 @@ https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="clubbingtv.com@SD" tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="Music",CLUBBING TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 
+#EXTINF:-1 tvg-name="Pure Ibiza" tvg-logo="https://www.pureibizaradio.com/wp-content/uploads/2020/03/Recurso-2@4x-600x600.png" group-title="Music",Pure Ibiza Radio
+http://149.11.174.138:8518/listen.pls?sid=1.m3u
+
+#EXTM3U
+#EXTINF:-1 tvg-name="Ibiza Global TV" group-title="Music",Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-ticino-channel.jpg" group-title="Music",Radio Ticino Channel
 https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7YOUME.it@HD" tvg-logo="https://i.imgur.com/Rte2K3x.png" group-title="Music",7 YOU & ME
-https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="7080TV.it@SD" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="Music",70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CarinaTV.it@SD" tvg-logo="https://i.imgur.com/ANGD7gv.png" group-title="Music",CarinaTV
-https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CompanyTV.it@SD" tvg-logo="https://i.imgur.com/ccdwsWj.png" group-title="Music",Company TV
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="DeejayTV.it@SD" tvg-logo="https://i.imgur.com/YV27Chs.png" group-title="Music",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -229,10 +212,6 @@ https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioNumberOne.it@SD" tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="Music",Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="66" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Music",Radio 105 TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="R101TV.it" tvg-chno="67" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png" group-title="Music",R101 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -542,6 +521,7 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="News" tvg-name="betevé",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
 
 
 
