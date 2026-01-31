@@ -188,6 +188,9 @@ https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="clubbingtv.com@SD" tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="Music",CLUBBING TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 
+#EXTINF:-1 tvg-name="Pure Ibiza" tvg-logo="https://www.pureibizaradio.com/wp-content/uploads/2020/03/Recurso-2@4x-600x600.png" group-title="Music",Pure Ibiza Radio
+https://pureibizaradio.streaming-pro.com:8024/stream.aac
+
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-ticino-channel.jpg" group-title="Music",Radio Ticino Channel
 https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
 
@@ -491,6 +494,7 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfib
 
 #EXTINF:-1 tvg-id="RNE_Radio3.TV" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Spain" tvg-name="Radio 3",Radio 3
 https://ztnr.rtve.es/ztnr/6982918.m3u8
+
 
 
 
