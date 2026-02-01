@@ -144,16 +144,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8
 #EXTINF:-1 tvg-id="EtnaEspressoChannel.it@SD" tvg-logo="https://i.imgur.com/lSI5QgV.png" group-title="Regionale",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ibiza Global Radio" tvg-logo="https://i1.sndcdn.com/artworks-7kt9rb7z6aNwZhdQ-ykY7kw-t500x500.jpg" group-title="Music",Ibiza Global Radio
+#EXTINF:-1 tvg-name="Ibiza Global Radio" tvg-logo="https://play-lh.googleusercontent.com/szKIi0fnZegEwJn_hV19kyD7A7lIK94nRE4whHQZMnxFvO6Qd58x_I97BAcFndWijXM" group-title="Music",Ibiza Global Radio
 https://listenssl.ibizaglobalradio.com:8024/
 
-#EXTINF:-1 tvg-name="Ibiza Global radio Classics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX5NSsBFB95qAwk8IW3pGBwiejv4QiWnkHRA&s" group-title="Music",Ibiza Global Radio Classics
+#EXTINF:-1 tvg-name="Ibiza Global radio Classics" tvg-logo="https://cdn-profiles.tunein.com/s54700/images/logog.jpg?t=1" group-title="Music",Ibiza Global Radio Classics
 https://control.streaming-pro.com:8000/ibizaglobalclassics.mp3
 
 #EXTINF:-1 tvg-name="Pure Ibiza" tvg-logo="https://www.pureibizaradio.com/wp-content/uploads/2020/03/Recurso-2@4x-600x600.png" group-title="Music",Pure Ibiza Radio
 https://pureibizaradio.streaming-pro.com:8024/stream.aac
 
-#EXTINF:-1 tvg-name="Tomorrowland Onw World Radio" tvg-logo="https://cdn.uc.assets.prezly.com/17767f7d-09ed-47f9-b13e-f3cbbea9c5e3/-/crop/1000x538/0,215/-/preview/-/resize/1108x/-/quality/best/-/format/auto/" group-title="Music",Tomorrowland Onw World Radio
+#EXTINF:-1 tvg-name="Tomorrowland One World Radio" tvg-logo="https://yt3.googleusercontent.com/0dcFuZffgyrazWHCdWU8-Nib0EQEdjhqsK6rzQL7_3p80xmTWAYF0huUY554RgmiFskHA8Qw3Q=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Tomorrowland One World Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL.mp3
 
 #EXTINF:-1 tvg-id="clubbingtv.com@SD" tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="Music",CLUBBING TV
@@ -165,7 +165,7 @@ https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Cafe del Mar Radio" tvg-logo="https://myradioonline.es/public/uploads/radio_img/cafe-del-mar/play_250_250.webp" group-title="Music",Cafe del Mar Radio
 https://streams.radio.co/se1a320b47/listen
 
-#EXTINF:-1 tvg-id="DeejayTV.it@SD" tvg-logo="https://i.imgur.com/YV27Chs.png" group-title="Music",Deejay TV
+#EXTINF:-1 tvg-id="DeejayTV.it@SD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Deejay-TV-in-diretta-live.png?fit=1920%2C1080&ssl=1" group-title="Music",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 #EXTINF:-1 channel-id="ITBA1500001R6" tvg-id="DeluxeLounge@HD" tvg-chno="4764" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1500001R6_20241022T051326SQUARE.png" group-title="Music",Deluxe Lounge HD
@@ -503,6 +503,7 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfib
 
 #EXTINF:-1 tvg-id="RNE_Radio3.TV" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Spain" tvg-name="Radio 3",Radio 3
 https://ztnr.rtve.es/ztnr/6982918.m3u8
+
 
 
 
