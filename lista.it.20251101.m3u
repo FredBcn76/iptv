@@ -25,7 +25,7 @@ https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:-1 tvg-id="TV8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="NOVE.it" tvg-chno="4067" tvg-name="NOVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000060Q_20250408T021504SQUARE.png" group-title="Sky",NOVE
+#EXTINF:-1 tvg-id="NOVE.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000060Q_20250408T021504SQUARE.png" group-title="Sky",NOVE
 https://jmp2.uk/stvp-IT9000060Q
 
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-chno="55" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png" group-title="Mediaset",Mediaset Extra
@@ -78,7 +78,7 @@ https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="LA5.it" tvg-chno="30" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png" group-title="Mediaset",La 5
+#EXTINF:-1 tvg-id="La5.it" tvg-chno="30" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png" group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
@@ -89,7 +89,7 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="cwielo.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
+#EXTINF:-1 tvg-id="cielo.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
 #EXTINF:0 tvg-id="WarnerTV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/warnertv.png" tvg-chno="37" group-title="Discovery" :http-user-agent="",Warner TV
@@ -475,6 +475,7 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="News" tvg-name="betevé",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
 
 
 
