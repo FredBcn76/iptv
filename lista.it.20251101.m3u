@@ -48,10 +48,6 @@ https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:0 tvg-id="RealTime.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" tvg-chno="31" group-title="Discovery" :http-user-agent="",Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 
-#EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="101" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="Rai",Rai 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/3840px-Rai_4_-_Logo_2016.svg.png" group-title="Rai",Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
@@ -320,9 +316,6 @@ http://176.65.146.237:8401/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-id="BeMad.es@SD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/channels/logo-be-mad-890.jpg" group-title="Spain",Be Mad
 http://176.65.146.237:8401/play/a0aj/index.m3u8
-
-#EXTINF:-1 tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Spain" tvg-name="Conciertos Radio 3 (RTVE)",Conciertos Radio 3
-https://ztnr.rtve.es/ztnr/6924117.m3u8
 
 #EXTINF:-1 tvg-id="RTVE_SomosCine.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Spain" tvg-name="Somos Cine (RTVE)",Somos Cine
 https://ztnr.rtve.es/ztnr/6909845.m3u8
