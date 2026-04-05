@@ -3,6 +3,7 @@
 <channel id="NOVE.it">
       <display-name lang="it">NOVE</display-name>
     <icon src="https://iptv-epg.org/logos/Italy/NOVE.it.png"/>
+      <url>http://www.warnertv.it</url>
   </channel>
   <channel id="GIALLO.it">
     <display-name>IT - GIALLO</display-name>
