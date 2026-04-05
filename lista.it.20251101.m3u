@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/3840px-Rai_1_-_Logo_2016.svg.png" group-title="Rai",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
-#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/3840px-Rai_2_-_Logo_2016.svg.png group-title="Rai",Rai 2
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/3840px-Rai_2_-_Logo_2016.svg.png" group-title="Rai",Rai 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/3840px-Rai_3_-_Logo_2016.svg.png" group-title="Rai",Rai 3
@@ -302,7 +302,7 @@ https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main
 #EXTINF:-1 tvg-id="France3.fr", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1920px-France_3_2018.svg.png", group-title="France",France 3
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
 
-#EXTINF:-1 tvg-id="France4.fr", tvg-logo="", group-title="France", France 4
+#EXTINF:-1 tvg-id="France4.fr", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/3840px-France_4_2018.svg.png", group-title="France", France 4
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1920px-France_5_2018.svg.png", group-title="France", France 5
@@ -334,9 +334,6 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mens
 
 #EXTINF:-1 tvg-id="MTV.fr@SD" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="France",MTV
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
-
-#EXTINF:-1 tvg-id="PlanetePlus.fr" tgv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Planete%2B_logo_SVG.svg/3840px-Planete%2B_logo_SVG.svg.png" group-title="France",Planete+
-https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 #EXTINF:-1 tvg-id="RMCDecouverte.fr"tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="France",RMC Decouverte
 https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
