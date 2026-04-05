@@ -25,7 +25,7 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="TV8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="NOVE.it" channel-id="NOVE.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000060Q_20250408T021504SQUARE.png" group-title="Sky",NOVE
+#EXTINF:-1 tvg-id="NOVE" channel-id="NOVE.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000060Q_20250408T021504SQUARE.png" group-title="Sky",NOVE
 https://jmp2.uk/stvp-IT9000060Q
 
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-chno="55" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png" group-title="Mediaset",Mediaset Extra
@@ -141,95 +141,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8
 #EXTINF:-1 tvg-id="EtnaEspressoChannel.it@SD" tvg-logo="https://i.imgur.com/lSI5QgV.png" group-title="Regionale",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ibiza Global Radio" tvg-logo="https://play-lh.googleusercontent.com/szKIi0fnZegEwJn_hV19kyD7A7lIK94nRE4whHQZMnxFvO6Qd58x_I97BAcFndWijXM" group-title="Radio",Ibiza Global Radio
-https://listenssl.ibizaglobalradio.com:8024/
-
-#EXTINF:-1 tvg-name="Ibiza Global radio Classics" tvg-logo="https://www.ibizabynight.net/wp-content/uploads/2017/12/ibiza-global-radio-2.png" group-title="Radio",Ibiza Global Radio Classics
-https://control.streaming-pro.com:8000/ibizaglobalclassics.mp3
-
-#EXTINF:-1 tvg-name="Pure Ibiza" tvg-logo="https://www.pureibizaradio.com/wp-content/uploads/2020/03/Recurso-2@4x-600x600.png" group-title="Radio",Pure Ibiza Radio
-https://pureibizaradio.streaming-pro.com:8024/stream.aac
-
-#EXTINF:-1 tvg-name="Tomorrowland One World Radio" tvg-logo="https://yt3.googleusercontent.com/0dcFuZffgyrazWHCdWU8-Nib0EQEdjhqsK6rzQL7_3p80xmTWAYF0huUY554RgmiFskHA8Qw3Q=s900-c-k-c0x00ffffff-no-rj" group-title="Radio",Tomorrowland One World Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL.mp3
-
-#EXTINF:-1 tvg-name="06AM Ibiza Underground" tvg-logo="https://cdn-radiotime-logos.tunein.com/s210530g.png" group-title="Radio",06AM Ibiza Underground
-https://streams.radio.co/sd1bcd1376/listen
-
-#EXTINF:-1 tvg-name="Ibiza Sonica" tvg-logo="https://i1.sndcdn.com/avatars-i3myEy4Zvs5eypmf-ryxMZg-t1080x1080.jpg" group-title="Radio",Ibiza Sonica
-https://ibizasonica.streaming-pro.com:8013/kaiboradio
-
-#EXTINF:-1 tvg-name="DanceNova Radio" tvg-logo="https://deepnovaradio.com/wp-content/uploads/2025/06/dancenova-320.png" group-title="Radio",DanceNova Radio
-https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3
-
-#EXTINF:-1 tvg-name="DeepNova Radio" tvg-logo="https://deepnovaradio.com/wp-content/uploads/2025/05/deepnova-320.png" group-title="Radio",DeepNova Radio
-https://a8.asurahosting.com:8820/radio.mp3
-
-#EXTINF:-1 tvg-name="TranceNova Radio" tvg-logo="https://deepnovaradio.com/wp-content/uploads/2025/06/trancenova-320.png" group-title="Radio",TranceNova Radio
-https://a7.asurahosting.com:6940/radio-192.mp3
-
-#EXTINF:-1 tvg-name="Cafe del Mar Radio" tvg-logo="https://cafedelmar.com/logo-cafedelmar-brand.png" group-title="Radio",Cafe del Mar Radio
-https://streams.radio.co/se1a320b47/listen
-
-#EXTINF:-1 tvg-name="Costa del Mar Chillout" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187256g.png" group-title="Radio",Costa del Mar Chillout
-https://radio4.cdm-radio.com:18020/stream-mp3-Chill
-
-#EXTINF:-1 tvg-id="clubbingtv.com@SD" tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="Music",CLUBBING TV
-https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-
-#EXTINF:-1 tvg-name="Radio Ibiza" tvg-logo="https://i.imgur.com/uu0DHY5.png" group-title="Music",Radio Ibiza
-https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DeejayTV.it@SD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Deejay-TV-in-diretta-live.png?fit=1920%2C1080&ssl=1" group-title="Music",Deejay TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-
-#EXTINF:-1 channel-id="ITBA1500001R6" tvg-id="DeluxeLounge@HD" tvg-chno="4764" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1500001R6_20241022T051326SQUARE.png" group-title="Music",Deluxe Lounge HD
-https://jmp2.uk/stvp-ITBA1500001R6
-
-#EXTINF:-1 channel-id="ITBC2100001G9" tvg-id="ITBC2100001G9" tvg-chno="4682" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png" group-title="Music",Vevo Pop
-https://jmp2.uk/stvp-ITBC2100001G9
-
-#EXTINF:-1 channel-id="ITBD1900010JL" tvg-id="ITBD1900010JL" tvg-chno="4684" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900010JL_20241022T043922SQUARE.png" group-title="Music,Vevo '70s & '80s
-https://jmp2.uk/stvp-ITBD1900010JL
-
-#EXTINF:-1 channel-id="ITBC210000200" tvg-id="ITBC210000200" tvg-chno="4686" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png" group-title="Music",Vevo '90s & '00s
-https://jmp2.uk/stvp-ITBC210000200
-
-#EXTINF:-1 tvg-name="Trace Latina" tvg-logo="https://i.imgur.com/GHbz8wd.png" tvg-id="TraceLatina.fr" group-title="Music",Trace Latina
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Trace Urban" tvg-logo="https://i.imgur.com/PAx9qj8.png" tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
-
-#EXTINF:-1 tvg-id="M2OTv.it" tvg-chno="715" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiom2otv.png" group-title="Music",M2O TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTL102.5News.it" tvg-chno="233" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Music",RTL 102.5
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-
-#EXTINF:0, tvg-id="Radio105TV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" tvg-chno="66" group-title="Music" :http-user-agent="HbbTV/1.6.1",Radio 105 TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Music",RADIO KISS KISS TV
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioZeta.it" tvg-chno="266" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiozetatv.png" group-title="Music",RADIO ZETA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-
-#EXTINF:-1 tvg-id="VirginRadio.it" tvg-chno="257" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="Music",VIRGIN RADIO
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://radioticino.com/wp-content/uploads/2020/06/rftlogosqbia.png" group-title="Music",Radio Ticino Channel
-https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioCapitalTv.it"  tvg-chno="713" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiocapitaltv.png" group-title="Music",Radio Capital TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Paradise Tv" tvg-logo="https://i.imgur.com/okIBfIb.jpg" group-title="Music",Paradise Tv
-https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="UK",BBC One HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
 
@@ -328,12 +239,6 @@ https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
 
 #EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="France",arte HD
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
-
-#EXTINF:-1 tvg-id="MensUPTV.fr@SD" tvg-logo="https://d30itml3t0pwpf.cloudfront.net/api/v3/medias/14636975/image/opt/original/1585572106-2d31a4a6" group-title="France",Men's UP TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
-
-#EXTINF:-1 tvg-id="MTV.fr@SD" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="France",MTV
-https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 
 #EXTINF:-1 tvg-id="RMCDecouverte.fr"tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="France",RMC Decouverte
 https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
@@ -470,6 +375,94 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="News" tvg-name="betevé",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 
+#EXTINF:-1 tvg-name="Ibiza Global Radio" tvg-logo="https://play-lh.googleusercontent.com/szKIi0fnZegEwJn_hV19kyD7A7lIK94nRE4whHQZMnxFvO6Qd58x_I97BAcFndWijXM" group-title="Radio",Ibiza Global Radio
+https://listenssl.ibizaglobalradio.com:8024/
+
+#EXTINF:-1 tvg-name="Ibiza Global radio Classics" tvg-logo="https://www.ibizabynight.net/wp-content/uploads/2017/12/ibiza-global-radio-2.png" group-title="Radio",Ibiza Global Radio Classics
+https://control.streaming-pro.com:8000/ibizaglobalclassics.mp3
+
+#EXTINF:-1 tvg-name="Pure Ibiza" tvg-logo="https://www.pureibizaradio.com/wp-content/uploads/2020/03/Recurso-2@4x-600x600.png" group-title="Radio",Pure Ibiza Radio
+https://pureibizaradio.streaming-pro.com:8024/stream.aac
+
+#EXTINF:-1 tvg-name="Tomorrowland One World Radio" tvg-logo="https://yt3.googleusercontent.com/0dcFuZffgyrazWHCdWU8-Nib0EQEdjhqsK6rzQL7_3p80xmTWAYF0huUY554RgmiFskHA8Qw3Q=s900-c-k-c0x00ffffff-no-rj" group-title="Radio",Tomorrowland One World Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL.mp3
+
+#EXTINF:-1 tvg-name="06AM Ibiza Underground" tvg-logo="https://cdn-radiotime-logos.tunein.com/s210530g.png" group-title="Radio",06AM Ibiza Underground
+https://streams.radio.co/sd1bcd1376/listen
+
+#EXTINF:-1 tvg-name="Ibiza Sonica" tvg-logo="https://i1.sndcdn.com/avatars-i3myEy4Zvs5eypmf-ryxMZg-t1080x1080.jpg" group-title="Radio",Ibiza Sonica
+https://ibizasonica.streaming-pro.com:8013/kaiboradio
+
+#EXTINF:-1 tvg-name="DanceNova Radio" tvg-logo="https://deepnovaradio.com/wp-content/uploads/2025/06/dancenova-320.png" group-title="Radio",DanceNova Radio
+https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3
+
+#EXTINF:-1 tvg-name="DeepNova Radio" tvg-logo="https://deepnovaradio.com/wp-content/uploads/2025/05/deepnova-320.png" group-title="Radio",DeepNova Radio
+https://a8.asurahosting.com:8820/radio.mp3
+
+#EXTINF:-1 tvg-name="TranceNova Radio" tvg-logo="https://deepnovaradio.com/wp-content/uploads/2025/06/trancenova-320.png" group-title="Radio",TranceNova Radio
+https://a7.asurahosting.com:6940/radio-192.mp3
+
+#EXTINF:-1 tvg-name="Cafe del Mar Radio" tvg-logo="https://cafedelmar.com/logo-cafedelmar-brand.png" group-title="Radio",Cafe del Mar Radio
+https://streams.radio.co/se1a320b47/listen
+
+#EXTINF:-1 tvg-name="Costa del Mar Chillout" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187256g.png" group-title="Radio",Costa del Mar Chillout
+https://radio4.cdm-radio.com:18020/stream-mp3-Chill
+
+#EXTINF:-1 tvg-id="clubbingtv.com@SD" tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="Music",CLUBBING TV
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+
+#EXTINF:-1 tvg-name="Radio Ibiza" tvg-logo="https://i.imgur.com/uu0DHY5.png" group-title="Music",Radio Ibiza
+https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeejayTV.it@SD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Deejay-TV-in-diretta-live.png?fit=1920%2C1080&ssl=1" group-title="Music",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 channel-id="ITBA1500001R6" tvg-id="DeluxeLounge@HD" tvg-chno="4764" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1500001R6_20241022T051326SQUARE.png" group-title="Music",Deluxe Lounge HD
+https://jmp2.uk/stvp-ITBA1500001R6
+
+#EXTINF:-1 channel-id="ITBC2100001G9" tvg-id="ITBC2100001G9" tvg-chno="4682" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png" group-title="Music",Vevo Pop
+https://jmp2.uk/stvp-ITBC2100001G9
+
+#EXTINF:-1 channel-id="ITBD1900010JL" tvg-id="ITBD1900010JL" tvg-chno="4684" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900010JL_20241022T043922SQUARE.png" group-title="Music,Vevo '70s & '80s
+https://jmp2.uk/stvp-ITBD1900010JL
+
+#EXTINF:-1 channel-id="ITBC210000200" tvg-id="ITBC210000200" tvg-chno="4686" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png" group-title="Music",Vevo '90s & '00s
+https://jmp2.uk/stvp-ITBC210000200
+
+#EXTINF:-1 tvg-name="Trace Latina" tvg-logo="https://i.imgur.com/GHbz8wd.png" tvg-id="TraceLatina.fr" group-title="Music",Trace Latina
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Trace Urban" tvg-logo="https://i.imgur.com/PAx9qj8.png" tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="M2OTv.it" tvg-chno="715" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiom2otv.png" group-title="Music",M2O TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTL102.5News.it" tvg-chno="233" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Music",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+
+#EXTINF:0, tvg-id="Radio105TV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" tvg-chno="66" group-title="Music" :http-user-agent="HbbTV/1.6.1",Radio 105 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Music",RADIO KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioZeta.it" tvg-chno="266" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiozetatv.png" group-title="Music",RADIO ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="VirginRadio.it" tvg-chno="257" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="Music",VIRGIN RADIO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://radioticino.com/wp-content/uploads/2020/06/rftlogosqbia.png" group-title="Music",Radio Ticino Channel
+https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioCapitalTv.it"  tvg-chno="713" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiocapitaltv.png" group-title="Music",Radio Capital TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Paradise Tv" tvg-logo="https://i.imgur.com/okIBfIb.jpg" group-title="Music",Paradise Tv
+https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 
 
 
