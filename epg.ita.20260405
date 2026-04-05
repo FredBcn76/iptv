@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="IPTV-EPG.org" source-info-url="https://iptv-epg.org">
+  <channel id="NOVE.it">
+    <display-name>IT - NOVE</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/NOVE.it.png"/>
+  </channel>
+  <channel id="GIALLO.it">
+    <display-name>IT - GIALLO</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/GIALLO.it.png"/>
+  </channel>
+  <channel id="DMAX.it">
+    <display-name>IT - DMAX</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/DMAX.it.png"/>
+  </channel>
+  <channel id="CNNIntl.it">
+    <display-name>IT - CNN Intl.</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/CNNIntl.it.png"/>
+  </channel>
+  <channel id="DeejayTV.it">
+    <display-name>IT - Deejay TV</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/DeejayTV.it.png"/>
+  </channel>
+  <channel id="RadioItaliaTV.it">
+    <display-name>IT - Radio Italia TV</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/RadioItaliaTV.it.png"/>
+  </channel>
+  <channel id="RADIONORBATV.it">
+    <display-name>IT - RADIONORBA TV</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/RADIONORBATV.it.png"/>
+  </channel>
+  <channel id="RTL1025.it">
+    <display-name>IT - RTL 102.5</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/RTL1025.it.png"/>
+  </channel>
+  <channel id="RADIOFRECCIA.it">
+    <display-name>IT - RADIOFRECCIA</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/RADIOFRECCIA.it.png"/>
+  </channel>
+  <channel id="Mediaset27Twentyseven.it">
+    <display-name>IT - Mediaset 27 Twentyseven </display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/Mediaset27Twentyseven.it.png"/>
+  </channel>
+  <channel id="TOPcrime.it">
+    <display-name>IT - TOPcrime</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/TOPcrime.it.png"/>
+  </channel>
+  <channel id="FashionTV.it">
+    <display-name>IT - Fashion TV</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/FashionTV.it.png"/>
+  </channel>
+  <channel id="RaiStoria.it">
+    <display-name>IT - Rai Storia</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/RaiStoria.it.png"/>
+  </channel>
+  </tv>
